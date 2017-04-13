@@ -1,6 +1,6 @@
 # javascript-dom-manipulation
 
-![JavaScript](/docs/javascript-736400_300.png) This is my own personal exercise to demonstrate Document Object Model (DOM) navigation and manipulation using the popular JavaScript command, document.getElementById. 
+![JavaScript](/docs/javascript-150x150.jpg) This is my own personal exercise to demonstrate Document Object Model (DOM) navigation and manipulation using the popular JavaScript command, document.getElementById. 
 
  Read the full blog post, [JavaScript and the DOM](https://www.johnhendrix.me/javascript-and-the-dom/), on my website.  The post describes what the DOM is, and how to use JavaScript to navigate and manipulate the DOM.
 
